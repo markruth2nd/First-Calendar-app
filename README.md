@@ -16,3 +16,5 @@ Fist calendar web app
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </section> "
 I will then duplicate the above to total 18 hours of my 24 hour day.
+
+**I NEED TO DOUBLE CHECK THAT ALL CLASSES MATCH ALL FILE SUXH AS JS, CSS & HTML DOCS
