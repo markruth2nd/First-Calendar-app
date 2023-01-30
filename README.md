@@ -7,6 +7,8 @@ Fist calendar web app
 
  First off I'll create and organise required files such as my CSS, HTML & Javascript file alays ensuring my index.html is at the root of all files and then add link to JS file and amend link to CSS file.
 
+ **I NEED TO DOUBLE CHECK THAT ALL CLASSES MATCH ALL FILE SUCH AS JS, CSS & HTML DOCS
+
  In my HTML document, within the <div> "container"I will add each hourly section with a text area as well as a save button. These will also include column sizes for each section.
  " <section id="hour-0" class="row time-block">
         <section class="col-md-2 hour">
@@ -15,6 +17,5 @@ Fist calendar web app
         <textarea class="col-md-9 description"></textarea>
         <button class="btn saveBtn col-md-1"><i class="fas fa-save"></i></button>
       </section> "
-I will then duplicate the above to total 18 hours of my 24 hour day.
+I will then duplicate the above to total 18 hours of my 24 hour day. I will add an additional section above the 18 hours with the title "Appointment added to localstorage".
 
-**I NEED TO DOUBLE CHECK THAT ALL CLASSES MATCH ALL FILE SUXH AS JS, CSS & HTML DOCS
