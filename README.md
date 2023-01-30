@@ -19,3 +19,4 @@ Fist calendar web app
       </section> "
 I will then duplicate the above to total 18 hours of my 24 hour day. I will add an additional section above the 18 hours with the title "Appointment added to localstorage".
 
+I can then create a function using JSQuery so that the Save Button will save any text the user adds to the text area. 
