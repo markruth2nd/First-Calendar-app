@@ -6,3 +6,12 @@ Fist calendar web app
  I am going to use the skills I've learned so far by using DOM manipulation, advanced JavaScript, integration of third-party APIs, possibly more. This app will run in the browser and feature dynamically updated HTML, CSS using jQuery. Ill also use the Moment.js Links to an external site.library to work with date and time.
 
  First off I'll create and organise required files such as my CSS, HTML & Javascript file alays ensuring my index.html is at the root of all files and then add link to JS file and amend link to CSS file.
+
+ In my HTML document, within the <div> "container"I will add each hourly section with a text area as well as a save button. These will also include column sizes for each section.
+ " <section id="hour-0" class="row time-block">
+        <section class="col-md-2 hour">
+          Today, 4 AM
+        </section>
+        <textarea class="col-md-9 description"></textarea>
+        <button class="btn saveButton col-md-1"><i class="fas fa-save"></i></button>
+      </section> "
