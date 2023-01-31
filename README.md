@@ -1,4 +1,9 @@
 # First-Calendar-app
+
+GitHub Link: https://github.com/markruth2nd/First-Calendar-app
+
+Deployed Link: https://markruth2nd.github.io/First-Calendar-app/
+
 Fist calendar web app
 
  In this project, I am looking to create a simple calendar application that allows any user to save events for each hour of the day by modifying starter code.
